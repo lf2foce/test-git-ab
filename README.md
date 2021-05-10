@@ -2,6 +2,6 @@
 
 Xin chao
 
-from my Macboo
 
-hehe
+
+from local repo
